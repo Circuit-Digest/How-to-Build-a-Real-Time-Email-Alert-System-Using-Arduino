@@ -171,6 +171,3 @@ This Real-Time Arduino Email Alert System demonstrates how environmental monitor
 
 The project is simple, scalable, and suitable for both beginners and real-world monitoring applications.
 
----
-
-⭐ If you found this project useful, give it a star on GitHub!
